@@ -13,7 +13,7 @@ This repository contains the implementation and results of our **Big Data and Bu
 - `KNN_Part3.ipynb` : KNN with rolling backtesting
 - `SVM.ipynb` : SVM implementation and tuning
 - `XGBoost.ipynb` : XGBoost implementation and tuning
-- `slides.pdf` : Group 8 report slides (in Chinese)
+- `slides.pdf` : Report slides (in Chinese)
 
 ---
 
