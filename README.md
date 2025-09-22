@@ -48,7 +48,7 @@ This repository contains the implementation and results of our **Big Data and Bu
 
 ---
 
-## Environment & Dependencies
+## Environment
 - Python 3.9+
 - Jupyter Notebook
 - Libraries:
@@ -57,7 +57,3 @@ This repository contains the implementation and results of our **Big Data and Bu
   - `xgboost`
   - `monpa`
   - `matplotlib`, `seaborn`
-
-Install dependencies:
-```bash
-pip install -r requirements.txt
